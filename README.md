@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!!👋️ I'm Eason Ren
+
+- 🔭 I’m currently working on .Net Developer
+- ⚡ Tech: C# | JS | .Net | .Net Core | Azure | Html | Sql server |
+- 📫 How to reach me: eason.ren@outlook.com
 
 <!--
 **EasonRen/EasonRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
